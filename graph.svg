@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3786pt" height="138pt" viewBox="0.00 0.00 3785.95 138.40">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 134.4)">
+<title>actividades_medio_ambiente</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-134.4 3781.955,-134.4 3781.955,4 -4,4"/>
+<!-- objetivo1 -->
+<g id="node1" class="node">
+<title>objetivo1</title>
+<path fill="none" stroke="#000000" d="M685.4766,-130.4C685.4766,-130.4 135.867,-130.4 135.867,-130.4 129.867,-130.4 123.867,-124.4 123.867,-118.4 123.867,-118.4 123.867,-106.4 123.867,-106.4 123.867,-100.4 129.867,-94.4 135.867,-94.4 135.867,-94.4 685.4766,-94.4 685.4766,-94.4 691.4766,-94.4 697.4766,-100.4 697.4766,-106.4 697.4766,-106.4 697.4766,-118.4 697.4766,-118.4 697.4766,-124.4 691.4766,-130.4 685.4766,-130.4"/>
+<text text-anchor="middle" x="410.6718" y="-108.2" font-family="Arial" font-size="14.00" fill="#000000">Promover la conciencia de la responsabilidad individual y colectiva en el cuidado del agua</text>
+</g>
+<!-- mural -->
+<g id="node2" class="node">
+<title>mural</title>
+<path fill="none" stroke="#000000" d="M251.5156,-58.6014C251.5156,-58.6014 11.828,-58.6014 11.828,-58.6014 5.828,-58.6014 -.172,-52.6014 -.172,-46.6014 -.172,-46.6014 -.172,-11.7986 -.172,-11.7986 -.172,-5.7986 5.828,.2014 11.828,.2014 11.828,.2014 251.5156,.2014 251.5156,.2014 257.5156,.2014 263.5156,-5.7986 263.5156,-11.7986 263.5156,-11.7986 263.5156,-46.6014 263.5156,-46.6014 263.5156,-52.6014 257.5156,-58.6014 251.5156,-58.6014"/>
+<text text-anchor="middle" x="131.6718" y="-41.8" font-family="Arial" font-size="14.00" fill="#000000">Creación de un mural sobre el agua</text>
+<text text-anchor="middle" x="131.6718" y="-25" font-family="Arial" font-size="14.00" fill="#000000">Costo: $500,000</text>
+<text text-anchor="middle" x="131.6718" y="-8.2" font-family="Arial" font-size="14.00" fill="#000000">Detalles: Pinturas, materiales artísticos</text>
+</g>
+<!-- objetivo1&#45;&gt;mural -->
+<g id="edge1" class="edge">
+<title>objetivo1-&gt;mural</title>
+<path fill="none" stroke="#000000" d="M350.133,-94.3468C317.8403,-84.7169 277.1303,-72.5769 239.6295,-61.3938"/>
+<polygon fill="#000000" stroke="#000000" points="240.2445,-57.925 229.6613,-58.4212 238.2441,-64.6331 240.2445,-57.925"/>
+</g>
+<!-- visita_quebradas -->
+<g id="node3" class="node">
+<title>visita_quebradas</title>
+<path fill="none" stroke="#000000" d="M528.6364,-58.6014C528.6364,-58.6014 292.7072,-58.6014 292.7072,-58.6014 286.7072,-58.6014 280.7072,-52.6014 280.7072,-46.6014 280.7072,-46.6014 280.7072,-11.7986 280.7072,-11.7986 280.7072,-5.7986 286.7072,.2014 292.7072,.2014 292.7072,.2014 528.6364,.2014 528.6364,.2014 534.6364,.2014 540.6364,-5.7986 540.6364,-11.7986 540.6364,-11.7986 540.6364,-46.6014 540.6364,-46.6014 540.6364,-52.6014 534.6364,-58.6014 528.6364,-58.6014"/>
+<text text-anchor="middle" x="410.6718" y="-41.8" font-family="Arial" font-size="14.00" fill="#000000">Visita a quebradas</text>
+<text text-anchor="middle" x="410.6718" y="-25" font-family="Arial" font-size="14.00" fill="#000000">Costo: $700,000</text>
+<text text-anchor="middle" x="410.6718" y="-8.2" font-family="Arial" font-size="14.00" fill="#000000">Detalles: Transporte, guías, refrigerios</text>
+</g>
+<!-- objetivo1&#45;&gt;visita_quebradas -->
+<g id="edge2" class="edge">
+<title>objetivo1-&gt;visita_quebradas</title>
+<path fill="none" stroke="#000000" d="M410.6718,-94.3468C410.6718,-86.7769 410.6718,-77.656 410.6718,-68.6681"/>
+<polygon fill="#000000" stroke="#000000" points="414.1719,-68.6667 410.6718,-58.6668 407.1719,-68.6668 414.1719,-68.6667"/>
+</g>
+<!-- campania_limpieza -->
+<g id="node4" class="node">
+<title>campania_limpieza</title>
+<path fill="none" stroke="#000000" d="M970.3169,-58.6014C970.3169,-58.6014 571.0267,-58.6014 571.0267,-58.6014 565.0267,-58.6014 559.0267,-52.6014 559.0267,-46.6014 559.0267,-46.6014 559.0267,-11.7986 559.0267,-11.7986 559.0267,-5.7986 565.0267,.2014 571.0267,.2014 571.0267,.2014 970.3169,.2014 970.3169,.2014 976.3169,.2014 982.3169,-5.7986 982.3169,-11.7986 982.3169,-11.7986 982.3169,-46.6014 982.3169,-46.6014 982.3169,-52.6014 976.3169,-58.6014 970.3169,-58.6014"/>
+<text text-anchor="middle" x="770.6718" y="-41.8" font-family="Arial" font-size="14.00" fill="#000000">Organización de una campaña de limpieza de ríos y quebradas</text>
+<text text-anchor="middle" x="770.6718" y="-25" font-family="Arial" font-size="14.00" fill="#000000">Costo: $1,200,000</text>
+<text text-anchor="middle" x="770.6718" y="-8.2" font-family="Arial" font-size="14.00" fill="#000000">Detalles: Materiales de limpieza, publicidad, logística</text>
+</g>
+<!-- objetivo1&#45;&gt;campania_limpieza -->
+<g id="edge3" class="edge">
+<title>objetivo1-&gt;campania_limpieza</title>
+<path fill="none" stroke="#000000" d="M488.7864,-94.3468C531.3409,-84.512 585.2236,-72.0591 634.4543,-60.6814"/>
+<polygon fill="#000000" stroke="#000000" points="635.2787,-64.0832 644.2337,-58.4212 633.7024,-57.263 635.2787,-64.0832"/>
+</g>
+<!-- objetivo2 -->
+<g id="node5" class="node">
+<title>objetivo2</title>
+<path fill="none" stroke="#000000" d="M1973.6112,-130.4C1973.6112,-130.4 1329.7324,-130.4 1329.7324,-130.4 1323.7324,-130.4 1317.7324,-124.4 1317.7324,-118.4 1317.7324,-118.4 1317.7324,-106.4 1317.7324,-106.4 1317.7324,-100.4 1323.7324,-94.4 1329.7324,-94.4 1329.7324,-94.4 1973.6112,-94.4 1973.6112,-94.4 1979.6112,-94.4 1985.6112,-100.4 1985.6112,-106.4 1985.6112,-106.4 1985.6112,-118.4 1985.6112,-118.4 1985.6112,-124.4 1979.6112,-130.4 1973.6112,-130.4"/>
+<text text-anchor="middle" x="1651.6718" y="-108.2" font-family="Arial" font-size="14.00" fill="#000000">Desarrollar la capacidad de analizar y cuestionar diferentes perspectivas sobre el uso y cuidado del agua</text>
+</g>
+<!-- debates -->
+<g id="node6" class="node">
+<title>debates</title>
+<path fill="none" stroke="#000000" d="M1386.6856,-58.6014C1386.6856,-58.6014 1012.658,-58.6014 1012.658,-58.6014 1006.658,-58.6014 1000.658,-52.6014 1000.658,-46.6014 1000.658,-46.6014 1000.658,-11.7986 1000.658,-11.7986 1000.658,-5.7986 1006.658,.2014 1012.658,.2014 1012.658,.2014 1386.6856,.2014 1386.6856,.2014 1392.6856,.2014 1398.6856,-5.7986 1398.6856,-11.7986 1398.6856,-11.7986 1398.6856,-46.6014 1398.6856,-46.6014 1398.6856,-52.6014 1392.6856,-58.6014 1386.6856,-58.6014"/>
+<text text-anchor="middle" x="1199.6718" y="-41.8" font-family="Arial" font-size="14.00" fill="#000000">Realización de debates sobre el uso del agua en la sociedad</text>
+<text text-anchor="middle" x="1199.6718" y="-25" font-family="Arial" font-size="14.00" fill="#000000">Costo: $800,000</text>
+<text text-anchor="middle" x="1199.6718" y="-8.2" font-family="Arial" font-size="14.00" fill="#000000">Detalles: Material para debates, logística de espacios</text>
+</g>
+<!-- objetivo2&#45;&gt;debates -->
+<g id="edge4" class="edge">
+<title>objetivo2-&gt;debates</title>
+<path fill="none" stroke="#000000" d="M1553.8729,-94.3981C1499.7879,-84.4426 1431.0657,-71.7929 1368.5759,-60.2903"/>
+<polygon fill="#000000" stroke="#000000" points="1369.0717,-56.8229 1358.6033,-58.4547 1367.8045,-63.7072 1369.0717,-56.8229"/>
+</g>
+<!-- visita_laboratorio -->
+<g id="node7" class="node">
+<title>visita_laboratorio</title>
+<path fill="none" stroke="#000000" d="M1874.2356,-58.6014C1874.2356,-58.6014 1429.108,-58.6014 1429.108,-58.6014 1423.108,-58.6014 1417.108,-52.6014 1417.108,-46.6014 1417.108,-46.6014 1417.108,-11.7986 1417.108,-11.7986 1417.108,-5.7986 1423.108,.2014 1429.108,.2014 1429.108,.2014 1874.2356,.2014 1874.2356,.2014 1880.2356,.2014 1886.2356,-5.7986 1886.2356,-11.7986 1886.2356,-11.7986 1886.2356,-46.6014 1886.2356,-46.6014 1886.2356,-52.6014 1880.2356,-58.6014 1874.2356,-58.6014"/>
+<text text-anchor="middle" x="1651.6718" y="-41.8" font-family="Arial" font-size="14.00" fill="#000000">Visita a laboratorio para analizar muestras de agua y entender su calidad</text>
+<text text-anchor="middle" x="1651.6718" y="-25" font-family="Arial" font-size="14.00" fill="#000000">Costo: $1,500,000</text>
+<text text-anchor="middle" x="1651.6718" y="-8.2" font-family="Arial" font-size="14.00" fill="#000000">Detalles: Transporte, guías de laboratorio, análisis de muestras</text>
+</g>
+<!-- objetivo2&#45;&gt;visita_laboratorio -->
+<g id="edge5" class="edge">
+<title>objetivo2-&gt;visita_laboratorio</title>
+<path fill="none" stroke="#000000" d="M1651.6718,-94.3468C1651.6718,-86.7769 1651.6718,-77.656 1651.6718,-68.6681"/>
+<polygon fill="#000000" stroke="#000000" points="1655.1719,-68.6667 1651.6718,-58.6668 1648.1719,-68.6668 1655.1719,-68.6667"/>
+</g>
+<!-- proyectos_investigacion -->
+<g id="node8" class="node">
+<title>proyectos_investigacion</title>
+<path fill="none" stroke="#000000" d="M2481.5405,-58.6014C2481.5405,-58.6014 1915.8031,-58.6014 1915.8031,-58.6014 1909.8031,-58.6014 1903.8031,-52.6014 1903.8031,-46.6014 1903.8031,-46.6014 1903.8031,-11.7986 1903.8031,-11.7986 1903.8031,-5.7986 1909.8031,.2014 1915.8031,.2014 1915.8031,.2014 2481.5405,.2014 2481.5405,.2014 2487.5405,.2014 2493.5405,-5.7986 2493.5405,-11.7986 2493.5405,-11.7986 2493.5405,-46.6014 2493.5405,-46.6014 2493.5405,-52.6014 2487.5405,-58.6014 2481.5405,-58.6014"/>
+<text text-anchor="middle" x="2198.6718" y="-41.8" font-family="Arial" font-size="14.00" fill="#000000">Elaboración de proyectos de investigación sobre el impacto del agua en el medio ambiente</text>
+<text text-anchor="middle" x="2198.6718" y="-25" font-family="Arial" font-size="14.00" fill="#000000">Costo: $600,000</text>
+<text text-anchor="middle" x="2198.6718" y="-8.2" font-family="Arial" font-size="14.00" fill="#000000">Detalles: Material de investigación, impresiones</text>
+</g>
+<!-- objetivo2&#45;&gt;proyectos_investigacion -->
+<g id="edge6" class="edge">
+<title>objetivo2-&gt;proyectos_investigacion</title>
+<path fill="none" stroke="#000000" d="M1770.0258,-94.3981C1836.0921,-84.3492 1920.2057,-71.5554 1996.3938,-59.967"/>
+<polygon fill="#000000" stroke="#000000" points="1997.2456,-63.3777 2006.6055,-58.4137 1996.1929,-56.4573 1997.2456,-63.3777"/>
+</g>
+<!-- objetivo3 -->
+<g id="node9" class="node">
+<title>objetivo3</title>
+<path fill="none" stroke="#000000" d="M3453.5055,-130.4C3453.5055,-130.4 2873.8381,-130.4 2873.8381,-130.4 2867.8381,-130.4 2861.8381,-124.4 2861.8381,-118.4 2861.8381,-118.4 2861.8381,-106.4 2861.8381,-106.4 2861.8381,-100.4 2867.8381,-94.4 2873.8381,-94.4 2873.8381,-94.4 3453.5055,-94.4 3453.5055,-94.4 3459.5055,-94.4 3465.5055,-100.4 3465.5055,-106.4 3465.5055,-106.4 3465.5055,-118.4 3465.5055,-118.4 3465.5055,-124.4 3459.5055,-130.4 3453.5055,-130.4"/>
+<text text-anchor="middle" x="3163.6718" y="-108.2" font-family="Arial" font-size="14.00" fill="#000000">Utilizar herramientas digitales para acceder a información relevante sobre el cuidado del agua</text>
+</g>
+<!-- app_moviles -->
+<g id="node10" class="node">
+<title>app_moviles</title>
+<path fill="none" stroke="#000000" d="M2957.8029,-58.6014C2957.8029,-58.6014 2523.5407,-58.6014 2523.5407,-58.6014 2517.5407,-58.6014 2511.5407,-52.6014 2511.5407,-46.6014 2511.5407,-46.6014 2511.5407,-11.7986 2511.5407,-11.7986 2511.5407,-5.7986 2517.5407,.2014 2523.5407,.2014 2523.5407,.2014 2957.8029,.2014 2957.8029,.2014 2963.8029,.2014 2969.8029,-5.7986 2969.8029,-11.7986 2969.8029,-11.7986 2969.8029,-46.6014 2969.8029,-46.6014 2969.8029,-52.6014 2963.8029,-58.6014 2957.8029,-58.6014"/>
+<text text-anchor="middle" x="2740.6718" y="-41.8" font-family="Arial" font-size="14.00" fill="#000000">Uso de aplicaciones móviles de reconocimiento de especies acuáticas</text>
+<text text-anchor="middle" x="2740.6718" y="-25" font-family="Arial" font-size="14.00" fill="#000000">Costo: $400,000</text>
+<text text-anchor="middle" x="2740.6718" y="-8.2" font-family="Arial" font-size="14.00" fill="#000000">Detalles: Descarga de aplicaciones, dispositivos móviles</text>
+</g>
+<!-- objetivo3&#45;&gt;app_moviles -->
+<g id="edge7" class="edge">
+<title>objetivo3-&gt;app_moviles</title>
+<path fill="none" stroke="#000000" d="M3072.1476,-94.3981C3021.7409,-84.4836 2957.7488,-71.8969 2899.4614,-60.4324"/>
+<polygon fill="#000000" stroke="#000000" points="2899.8939,-56.9505 2889.4064,-58.4547 2898.5429,-63.8189 2899.8939,-56.9505"/>
+</g>
+<!-- guias_digitales -->
+<g id="node11" class="node">
+<title>guias_digitales</title>
+<path fill="none" stroke="#000000" d="M3327.7558,-58.6014C3327.7558,-58.6014 2999.5878,-58.6014 2999.5878,-58.6014 2993.5878,-58.6014 2987.5878,-52.6014 2987.5878,-46.6014 2987.5878,-46.6014 2987.5878,-11.7986 2987.5878,-11.7986 2987.5878,-5.7986 2993.5878,.2014 2999.5878,.2014 2999.5878,.2014 3327.7558,.2014 3327.7558,.2014 3333.7558,.2014 3339.7558,-5.7986 3339.7558,-11.7986 3339.7558,-11.7986 3339.7558,-46.6014 3339.7558,-46.6014 3339.7558,-52.6014 3333.7558,-58.6014 3327.7558,-58.6014"/>
+<text text-anchor="middle" x="3163.6718" y="-41.8" font-family="Arial" font-size="14.00" fill="#000000">Creación de guías digitales para el cuidado del agua</text>
+<text text-anchor="middle" x="3163.6718" y="-25" font-family="Arial" font-size="14.00" fill="#000000">Costo: $300,000</text>
+<text text-anchor="middle" x="3163.6718" y="-8.2" font-family="Arial" font-size="14.00" fill="#000000">Detalles: Diseño gráfico, material digital</text>
+</g>
+<!-- objetivo3&#45;&gt;guias_digitales -->
+<g id="edge8" class="edge">
+<title>objetivo3-&gt;guias_digitales</title>
+<path fill="none" stroke="#000000" d="M3163.6718,-94.3468C3163.6718,-86.7769 3163.6718,-77.656 3163.6718,-68.6681"/>
+<polygon fill="#000000" stroke="#000000" points="3167.1719,-68.6667 3163.6718,-58.6668 3160.1719,-68.6668 3167.1719,-68.6667"/>
+</g>
+<!-- concurso_videos -->
+<g id="node12" class="node">
+<title>concurso_videos</title>
+<path fill="none" stroke="#000000" d="M3765.7384,-58.6014C3765.7384,-58.6014 3369.6052,-58.6014 3369.6052,-58.6014 3363.6052,-58.6014 3357.6052,-52.6014 3357.6052,-46.6014 3357.6052,-46.6014 3357.6052,-11.7986 3357.6052,-11.7986 3357.6052,-5.7986 3363.6052,.2014 3369.6052,.2014 3369.6052,.2014 3765.7384,.2014 3765.7384,.2014 3771.7384,.2014 3777.7384,-5.7986 3777.7384,-11.7986 3777.7384,-11.7986 3777.7384,-46.6014 3777.7384,-46.6014 3777.7384,-52.6014 3771.7384,-58.6014 3765.7384,-58.6014"/>
+<text text-anchor="middle" x="3567.6718" y="-41.8" font-family="Arial" font-size="14.00" fill="#000000">Realización de un concurso de videos sobre el cuidado del agua</text>
+<text text-anchor="middle" x="3567.6718" y="-25" font-family="Arial" font-size="14.00" fill="#000000">Costo: $1,000,000</text>
+<text text-anchor="middle" x="3567.6718" y="-8.2" font-family="Arial" font-size="14.00" fill="#000000">Detalles: Premios, material audiovisual</text>
+</g>
+<!-- objetivo3&#45;&gt;concurso_videos -->
+<g id="edge9" class="edge">
+<title>objetivo3-&gt;concurso_videos</title>
+<path fill="none" stroke="#000000" d="M3251.3338,-94.3468C3299.3878,-84.4506 3360.314,-71.9034 3415.8408,-60.4682"/>
+<polygon fill="#000000" stroke="#000000" points="3416.6917,-63.8665 3425.7802,-58.4212 3415.2797,-57.0103 3416.6917,-63.8665"/>
+</g>
+</g>
+</svg>

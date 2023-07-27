@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2026pt" height="144pt" viewBox="0.00 0.00 2025.86 144.43">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 140.4313)">
+<title>enciclopediaMacroinvertebrados</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-140.4313 2021.8639,-140.4313 2021.8639,4 -4,4"/>
+<!-- DesarrolloPlataformaDigital -->
+<g id="node1" class="node">
+<title>DesarrolloPlataformaDigital</title>
+<polygon fill="#f0f0f0" stroke="#000000" points="224.7031,-136.2332 -.2347,-136.2332 -.2347,-95.0294 224.7031,-95.0294 224.7031,-136.2332"/>
+<text text-anchor="middle" x="112.2342" y="-119.8313" font-family="Arial" font-size="14.00" fill="#000000">Desarrollo de la plataforma digital</text>
+<text text-anchor="middle" x="112.2342" y="-103.0313" font-family="Arial" font-size="14.00" fill="#000000">3,000,000 pesos</text>
+</g>
+<!-- CostoTotal -->
+<g id="node10" class="node">
+<title>CostoTotal</title>
+<ellipse fill="#d9d9d9" stroke="#000000" cx="1095.2342" cy="-29.4156" rx="144.9791" ry="29.3315"/>
+<text text-anchor="middle" x="1095.2342" y="-33.6156" font-family="Arial" font-size="14.00" fill="#000000">Costo Total de la Enciclopedia</text>
+<text text-anchor="middle" x="1095.2342" y="-16.8156" font-family="Arial" font-size="14.00" fill="#000000">8,000,000 pesos</text>
+</g>
+<!-- DesarrolloPlataformaDigital&#45;&gt;CostoTotal -->
+<g id="edge1" class="edge">
+<title>DesarrolloPlataformaDigital-&gt;CostoTotal</title>
+<path fill="none" stroke="#000000" d="M224.5219,-96.0829C227.7925,-95.6433 231.0354,-95.2246 234.2342,-94.8313 481.8711,-64.381 771.4368,-45.8747 943.7425,-36.6526"/>
+<polygon fill="#000000" stroke="#000000" points="944.0988,-40.1387 953.8988,-36.1125 943.727,-33.1486 944.0988,-40.1387"/>
+</g>
+<!-- CreacionContenido -->
+<g id="node2" class="node">
+<title>CreacionContenido</title>
+<polygon fill="#f0f0f0" stroke="#000000" points="403.4385,-136.2332 243.0299,-136.2332 243.0299,-95.0294 403.4385,-95.0294 403.4385,-136.2332"/>
+<text text-anchor="middle" x="323.2342" y="-119.8313" font-family="Arial" font-size="14.00" fill="#000000">Creación de contenido</text>
+<text text-anchor="middle" x="323.2342" y="-103.0313" font-family="Arial" font-size="14.00" fill="#000000">1,500,000 pesos</text>
+</g>
+<!-- CreacionContenido&#45;&gt;CostoTotal -->
+<g id="edge2" class="edge">
+<title>CreacionContenido-&gt;CostoTotal</title>
+<path fill="none" stroke="#000000" d="M403.6009,-96.5062C406.8481,-95.9084 410.0685,-95.3466 413.2342,-94.8313 595.0578,-65.2323 806.4936,-47.5048 945.165,-38.1179"/>
+<polygon fill="#000000" stroke="#000000" points="945.6942,-41.5904 955.4375,-37.4288 945.2256,-34.6061 945.6942,-41.5904"/>
+</g>
+<!-- RecopilacionMultimedia -->
+<g id="node3" class="node">
+<title>RecopilacionMultimedia</title>
+<polygon fill="#f0f0f0" stroke="#000000" points="690.5253,-136.2332 421.9431,-136.2332 421.9431,-95.0294 690.5253,-95.0294 690.5253,-136.2332"/>
+<text text-anchor="middle" x="556.2342" y="-119.8313" font-family="Arial" font-size="14.00" fill="#000000">Recopilación de imágenes y multimedia</text>
+<text text-anchor="middle" x="556.2342" y="-103.0313" font-family="Arial" font-size="14.00" fill="#000000">800,000 pesos</text>
+</g>
+<!-- RecopilacionMultimedia&#45;&gt;CostoTotal -->
+<g id="edge3" class="edge">
+<title>RecopilacionMultimedia-&gt;CostoTotal</title>
+<path fill="none" stroke="#000000" d="M685.3381,-94.9805C772.0667,-81.1078 885.7089,-62.9302 971.3322,-49.2344"/>
+<polygon fill="#000000" stroke="#000000" points="972.0459,-52.6648 981.3675,-47.6292 970.9402,-45.7527 972.0459,-52.6648"/>
+</g>
+<!-- DisenoGrafico -->
+<g id="node4" class="node">
+<title>DisenoGrafico</title>
+<polygon fill="#f0f0f0" stroke="#000000" points="951.5949,-136.2332 708.8735,-136.2332 708.8735,-95.0294 951.5949,-95.0294 951.5949,-136.2332"/>
+<text text-anchor="middle" x="830.2342" y="-119.8313" font-family="Arial" font-size="14.00" fill="#000000">Diseño gráfico e interfaz de usuario</text>
+<text text-anchor="middle" x="830.2342" y="-103.0313" font-family="Arial" font-size="14.00" fill="#000000">600,000 pesos</text>
+</g>
+<!-- DisenoGrafico&#45;&gt;CostoTotal -->
+<g id="edge4" class="edge">
+<title>DisenoGrafico-&gt;CostoTotal</title>
+<path fill="none" stroke="#000000" d="M893.7083,-94.9805C928.005,-83.8223 970.8621,-69.8791 1008.2261,-57.723"/>
+<polygon fill="#000000" stroke="#000000" points="1009.6747,-60.9324 1018.1012,-54.5102 1007.509,-54.2758 1009.6747,-60.9324"/>
+</g>
+<!-- PruebasRevision -->
+<g id="node5" class="node">
+<title>PruebasRevision</title>
+<polygon fill="#f0f0f0" stroke="#000000" points="1220.9496,-136.2332 969.5188,-136.2332 969.5188,-95.0294 1220.9496,-95.0294 1220.9496,-136.2332"/>
+<text text-anchor="middle" x="1095.2342" y="-119.8313" font-family="Arial" font-size="14.00" fill="#000000">Pruebas y revisión de la enciclopedia</text>
+<text text-anchor="middle" x="1095.2342" y="-103.0313" font-family="Arial" font-size="14.00" fill="#000000">400,000 pesos</text>
+</g>
+<!-- PruebasRevision&#45;&gt;CostoTotal -->
+<g id="edge5" class="edge">
+<title>PruebasRevision-&gt;CostoTotal</title>
+<path fill="none" stroke="#000000" d="M1095.2342,-94.7609C1095.2342,-87.0239 1095.2342,-77.9709 1095.2342,-69.1113"/>
+<polygon fill="#000000" stroke="#000000" points="1098.7343,-68.8902 1095.2342,-58.8902 1091.7343,-68.8903 1098.7343,-68.8902"/>
+</g>
+<!-- AlojamientoDominio -->
+<g id="node6" class="node">
+<title>AlojamientoDominio</title>
+<polygon fill="#f0f0f0" stroke="#000000" points="1421.7032,-136.2332 1238.7652,-136.2332 1238.7652,-95.0294 1421.7032,-95.0294 1421.7032,-136.2332"/>
+<text text-anchor="middle" x="1330.2342" y="-119.8313" font-family="Arial" font-size="14.00" fill="#000000">Alojamiento y dominio web</text>
+<text text-anchor="middle" x="1330.2342" y="-103.0313" font-family="Arial" font-size="14.00" fill="#000000">300,000 pesos</text>
+</g>
+<!-- AlojamientoDominio&#45;&gt;CostoTotal -->
+<g id="edge6" class="edge">
+<title>AlojamientoDominio-&gt;CostoTotal</title>
+<path fill="none" stroke="#000000" d="M1273.9458,-94.9805C1244.4086,-84.144 1207.7114,-70.6807 1175.2697,-58.7787"/>
+<polygon fill="#000000" stroke="#000000" points="1176.3916,-55.4622 1165.7979,-55.3037 1173.9806,-62.0339 1176.3916,-55.4622"/>
+</g>
+<!-- PromocionMarketing -->
+<g id="node7" class="node">
+<title>PromocionMarketing</title>
+<polygon fill="#f0f0f0" stroke="#000000" points="1603.0197,-136.2332 1439.4487,-136.2332 1439.4487,-95.0294 1603.0197,-95.0294 1603.0197,-136.2332"/>
+<text text-anchor="middle" x="1521.2342" y="-119.8313" font-family="Arial" font-size="14.00" fill="#000000">Promoción y marketing</text>
+<text text-anchor="middle" x="1521.2342" y="-103.0313" font-family="Arial" font-size="14.00" fill="#000000">700,000 pesos</text>
+</g>
+<!-- PromocionMarketing&#45;&gt;CostoTotal -->
+<g id="edge7" class="edge">
+<title>PromocionMarketing-&gt;CostoTotal</title>
+<path fill="none" stroke="#000000" d="M1439.4088,-96.7989C1436.3129,-96.1275 1433.2465,-95.4695 1430.2342,-94.8313 1358.0106,-79.5296 1276.7429,-63.6285 1212.3393,-51.3353"/>
+<polygon fill="#000000" stroke="#000000" points="1212.6301,-47.8279 1202.1517,-49.394 1211.3197,-54.7041 1212.6301,-47.8279"/>
+</g>
+<!-- ActualizacionMantenimiento -->
+<g id="node8" class="node">
+<title>ActualizacionMantenimiento</title>
+<polygon fill="#f0f0f0" stroke="#000000" points="1830.93,-136.2332 1621.5384,-136.2332 1621.5384,-95.0294 1830.93,-95.0294 1830.93,-136.2332"/>
+<text text-anchor="middle" x="1726.2342" y="-119.8313" font-family="Arial" font-size="14.00" fill="#000000">Actualización y mantenimiento</text>
+<text text-anchor="middle" x="1726.2342" y="-103.0313" font-family="Arial" font-size="14.00" fill="#000000">600,000 pesos</text>
+</g>
+<!-- ActualizacionMantenimiento&#45;&gt;CostoTotal -->
+<g id="edge8" class="edge">
+<title>ActualizacionMantenimiento-&gt;CostoTotal</title>
+<path fill="none" stroke="#000000" d="M1621.292,-96.2613C1618.2409,-95.7696 1615.2166,-95.2917 1612.2342,-94.8313 1483.8212,-75.0075 1336.7753,-56.8382 1232.4178,-44.7061"/>
+<polygon fill="#000000" stroke="#000000" points="1232.7905,-41.2259 1222.454,-43.551 1231.9844,-48.1794 1232.7905,-41.2259"/>
+</g>
+<!-- OtrosGastos -->
+<g id="node9" class="node">
+<title>OtrosGastos</title>
+<polygon fill="#f0f0f0" stroke="#000000" points="2017.9938,-136.2332 1848.4746,-136.2332 1848.4746,-95.0294 2017.9938,-95.0294 2017.9938,-136.2332"/>
+<text text-anchor="middle" x="1933.2342" y="-119.8313" font-family="Arial" font-size="14.00" fill="#000000">Otros gastos adicionales</text>
+<text text-anchor="middle" x="1933.2342" y="-103.0313" font-family="Arial" font-size="14.00" fill="#000000">500,000 pesos</text>
+</g>
+<!-- OtrosGastos&#45;&gt;CostoTotal -->
+<g id="edge9" class="edge">
+<title>OtrosGastos-&gt;CostoTotal</title>
+<path fill="none" stroke="#000000" d="M1848.4268,-96.1775C1845.6681,-95.7002 1842.9319,-95.2495 1840.2342,-94.8313 1635.951,-63.1607 1397.5985,-45.5811 1246.5736,-36.8155"/>
+<polygon fill="#000000" stroke="#000000" points="1246.4875,-33.3049 1236.3031,-36.2252 1246.0857,-40.2934 1246.4875,-33.3049"/>
+</g>
+</g>
+</svg>
